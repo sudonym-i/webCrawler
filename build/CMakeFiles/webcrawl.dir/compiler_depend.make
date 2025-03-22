@@ -29,6 +29,7 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
   /usr/include/c++/13/bits/basic_string.tcc \
   /usr/include/c++/13/bits/char_traits.h \
   /usr/include/c++/13/bits/charconv.h \
+  /usr/include/c++/13/bits/codecvt.h \
   /usr/include/c++/13/bits/concept_check.h \
   /usr/include/c++/13/bits/cpp_type_traits.h \
   /usr/include/c++/13/bits/cxxabi_forced.h \
@@ -36,6 +37,7 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
   /usr/include/c++/13/bits/exception.h \
   /usr/include/c++/13/bits/exception_defines.h \
   /usr/include/c++/13/bits/exception_ptr.h \
+  /usr/include/c++/13/bits/fstream.tcc \
   /usr/include/c++/13/bits/functexcept.h \
   /usr/include/c++/13/bits/functional_hash.h \
   /usr/include/c++/13/bits/hash_bytes.h \
@@ -92,6 +94,7 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
   /usr/include/c++/13/ext/numeric_traits.h \
   /usr/include/c++/13/ext/string_conversions.h \
   /usr/include/c++/13/ext/type_traits.h \
+  /usr/include/c++/13/fstream \
   /usr/include/c++/13/initializer_list \
   /usr/include/c++/13/ios \
   /usr/include/c++/13/iosfwd \
@@ -204,8 +207,10 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
+  /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
+  /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
   /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_base.h \
@@ -249,6 +254,10 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_inline.h:
 
 /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_base.h:
+
+/usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h:
+
+/usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h:
 
 /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h:
 
@@ -352,10 +361,6 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
-
-/usr/include/c++/13/bits/refwrap.h:
-
 /usr/include/x86_64-linux-gnu/sys/time.h:
 
 /usr/include/c++/13/debug/debug.h:
@@ -363,6 +368,10 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/c++/13/stdexcept:
 
 /usr/include/c++/13/bits/ostream_insert.h:
+
+/usr/include/wchar.h:
+
+/usr/include/c++/13/bits/memory_resource.h:
 
 /usr/include/c++/13/bits/invoke.h:
 
@@ -394,10 +403,6 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/c++/13/bits/nested_exception.h:
 
-/usr/include/c++/13/bits/memory_resource.h:
-
-/usr/include/wchar.h:
-
 /usr/include/c++/13/bits/istream.tcc:
 
 /usr/include/c++/13/bits/exception_ptr.h:
@@ -424,6 +429,14 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/c++/13/bits/cpp_type_traits.h:
 
+/usr/include/c++/13/bits/localefwd.h:
+
+/usr/include/linux/posix_types.h:
+
+/usr/include/time.h:
+
+/usr/include/c++/13/bits/memoryfwd.h:
+
 /home/isaac/vcpkg/installed/x64-linux/include/curl/system.h:
 
 /usr/include/c++/13/bits/stl_construct.h:
@@ -439,6 +452,8 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /home/isaac/vcpkg/installed/x64-linux/include/curl/easy.h:
 
 /home/isaac/vcpkg/installed/x64-linux/include/curl/urlapi.h:
+
+/usr/include/c++/13/bits/codecvt.h:
 
 /home/isaac/vcpkg/installed/x64-linux/include/curl/header.h:
 
@@ -468,14 +483,6 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/c++/13/cwchar:
 
-/usr/include/c++/13/bits/locale_facets.tcc:
-
-/usr/include/c++/13/bits/requires_hosted.h:
-
-/usr/include/c++/13/bits/string_view.tcc:
-
-/usr/include/features.h:
-
 /usr/include/c++/13/backward/binders.h:
 
 /usr/include/c++/13/bits/stringfwd.h:
@@ -489,6 +496,10 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/c++/13/type_traits:
 
 /usr/include/c++/13/ios:
+
+/usr/include/c++/13/bits/concept_check.h:
+
+/usr/include/c++/13/bits/alloc_traits.h:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
 
@@ -506,6 +517,12 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/linux/stddef.h:
 
+/usr/include/c++/13/bits/fstream.tcc:
+
+/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+
+/usr/include/c++/13/bits/refwrap.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
@@ -518,21 +535,17 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 
 /usr/include/features-time64.h:
 
-/usr/include/c++/13/bits/alloc_traits.h:
-
-/usr/include/c++/13/bits/concept_check.h:
-
-/usr/include/c++/13/bits/localefwd.h:
-
-/usr/include/linux/posix_types.h:
-
 /usr/include/x86_64-linux-gnu/bits/socket_type.h:
 
 /usr/include/c++/13/bits/locale_facets.h:
 
-/usr/include/c++/13/bits/memoryfwd.h:
+/usr/include/c++/13/bits/locale_facets.tcc:
 
-/usr/include/time.h:
+/usr/include/c++/13/bits/requires_hosted.h:
+
+/usr/include/c++/13/bits/string_view.tcc:
+
+/usr/include/features.h:
 
 /usr/include/c++/13/cwctype:
 
@@ -559,6 +572,12 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/c++/13/bits/std_abs.h:
 
 /usr/include/c++/13/bits/uses_allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/wctype.h:
+
+/usr/include/c++/13/exception:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
@@ -587,6 +606,8 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/c++/13/bits/stl_pair.h:
 
 /usr/include/c++/13/bits/charconv.h:
+
+/usr/include/c++/13/fstream:
 
 /usr/include/c++/13/cstdio:
 
@@ -671,9 +692,3 @@ CMakeFiles/webcrawl.dir/scraper.cpp.o: /home/isaac/gitclones/webCrawler/scraper.
 /usr/include/x86_64-linux-gnu/asm/socket.h:
 
 /usr/include/stdlib.h:
-
-/usr/include/x86_64-linux-gnu/bits/errno.h:
-
-/usr/include/c++/13/exception:
-
-/usr/include/wctype.h:

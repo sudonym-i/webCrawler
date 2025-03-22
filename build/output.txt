@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+		<title>Mount Royal University | MRU</title>
+		<meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport"/>
+		<meta content="ovigpJtcJVKucRn7M7TVcr3NJuQOkGVnGQ2D4XAQwao" name="google-site-verification"/>
+		
+		<meta content="Whether it’s a dream job or graduate studies, your journey to becoming something more starts at Mount Royal University." name="description"/>
+		        <link href="_files/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+        <link href="_files/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+        <link href="_files/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+        <link href="_files/favicons/site.webmanifest" rel="manifest"/>
+        <link href="_files/favicons/safari-pinned-tab-2color.svg" rel="mask-icon"/>
+        <meta content="#da532c" name="msapplication-TileColor"/>
+        <meta content="#ffffff" name="theme-color"/>
+		
+		<meta content="/images/favicons/browserconfig.xml" name="msapplication-config"/>
+		<meta content="/images/favicons/og-image.jpg" property="og:image"/>
+		<meta content="269" property="og:image:width"/>
+		<meta content="269" property="og:image:height"/>
+		<meta content="Mount Royal University" property="og:title"/>
+		<meta content="https://mtroyal.ca" property="og:url"/>
+		
+    <link href="_files/css/styles8.css?v=20231208e" rel="stylesheet" type="text/css"/>
+    <link href="_files/css/mru-extra.css" rel="stylesheet" type="text/css"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css"/>
+
+		<link href="_files/css/block-library.css" rel="stylesheet"/>
+		<script src="_files/js/jquery-1.12.4.min.js"></script>
+<script src="_files/js/jquery.headerFeature.js" type="text/javascript"></script>
+<script src="_files/js/jquery.equalizer.js" type="text/javascript"></script>
+<script>
+$(function() {
+	$('.row').equalizer({
+		breakpoint : 500,       // if browser less than this width, disable the plugin
+		columns    : '.col-eq-height',
+		disabled   : 'noresize' // class applied when browser width is less than the breakpoint value
+	});
+});
+</script>
+		
+		
+
+
+
+
+
+    
+            
+        
+            
+        <script type="text/javascript">
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WMGWXQM');
+        </script>
+        
+    
+
+	</head>
+    <body class="home-page">
+    		
+
+
+
+
+
+    
+            
+        
+            <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WMGWXQM" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    
+
+    		
+    		<div class="wrapper">
+    			<!-- ***** HEADER ***** -->
+    			
+
+    <div class="nav-container">
+        
+
+
+<div class="container-fluid">
+    <div class="row" id="alert-row">
+                                                                                                                </div>
+</div>
+</div>
+
+
+
+    			
+	<div id="search-container" style="display: none;">
+		<div class="container">
+			<script>
+			    
+				
+                    (function() {
+                        var cx = '017812453829709950820:wwhvxl0gdga';
+                        var gcse = document.createElement('script');
+                        gcse.type = 'text/javascript';
+                        gcse.async = true;
+                        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cse.google.com/cse.js?cx=' + cx;
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(gcse, s);
+                    })();
+                
+			</script>
+			<gcse:searchbox-only><div style="height:37px"> </div></gcse:searchbox-only>
+		</div>
+	</div>
+
+    			
+    <div class="nav-container">
+        
+<!-- standard-header -->
+<header class="header">
+    <a href="#skip-to-content" id="skip">Skip to main content</a>
+	<div class="header-main container">
+		<!--search menu mobile-->
+		<div class="info hidden-lg hidden-md hidden-sm col-xs-12">
+			<div style="width: 100%; margin: auto;">
+				<ul class="menu-top navbar-left">
+					<li id="m-apply">
+						<a href="/Admission/Apply/index.htm">Apply</a>
+					</li>
+					<li id="m-mymru">
+						<a href="//www.mymru.ca/">MyMRU</a>
+					</li>
+					<li id="m-search">
+						<a href="#" id="toggle-search-xs">
+							<i class="fa fa-search search-icon-shown"></i>
+							<div class="search-icon-hidden" id="close-search-x-xs">
+								<svg height="10" style="margin-bottom: -2px;" width="10">
+								    <title>Close search</title>
+									<line fill="none" stroke="#FFFFFF" stroke-width="2" x1="0" x2="10" y1="0" y2="10"/>
+									<line fill="none" stroke="#FFFFFF" stroke-width="2" x1="0" x2="10" y1="10" y2="0"/>
+								</svg>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<!--//menu-top-->
+			</div>
+		</div>
+		<!--//search menu mobile-->
+		<!--logo-->
+		<div class="logo col-md-4 col-sm-4">
+			<a href="/index.htm">
+				<img alt="Mount Royal University Home" id="logo" src="/_files/img/mru-logo-152x100.png"/>
+			</a>
+		</div>
+		<!--//logo-->
+		<!-- menu search non mobile -->
+		<div class="info col-md-8 col-sm-8 col-xs-12">
+			<ul class="menu-top navbar-right hidden-xs">
+				<li id="apply">
+					<a href="/Admission/Apply/index.htm">Apply</a>
+				</li>
+				<li id="mymru">
+					<a href="//www.mymru.ca/">MyMRU</a>
+				</li>
+				<li id="search">
+					<a href="#" id="toggle-search">
+						<i aria-label="Open search" class="fa fa-search search-icon-shown" title="Open search"></i>
+						<div class="search-icon-hidden" id="close-search-x">
+							<svg height="10" style="margin-bottom: -2px;" width="10">
+							    <title>Close search</title>
+								<line fill="none" stroke="#FFFFFF" stroke-width="2" x1="0" x2="10" y1="0" y2="10"/>
+								<line fill="none" stroke="#FFFFFF" stroke-width="2" x1="0" x2="10" y1="10" y2="0"/>
+							</svg>
+						</div>
+					</a>
+				</li>
+			</ul>
+			<!--//menu-top-->
+			<div class="hidden-md hidden-lg" style="margin-bottom:30px">
+				<br/>
+			</div>
+			<ul class="priorityLinks menu-top pull-right">
+				<li class="divider">
+					<a href="/Admission/future-students.htm">Future Students</a>
+				</li>
+				<li class="divider">
+					<a href="/CampusServices/index.htm">Current Students</a>
+				</li>
+				<li class="divider">
+					<a href="/InternationalStudents/index.htm">International Students</a>
+				</li>
+				<li class="divider">
+					<a href="/IndigenousMountRoyal/Future-Students/index.htm">Indigenous Students</a>
+				</li>
+				<li>
+					<a href="https://alumni.mru.ca/home">Alumni</a>
+				</li>
+			</ul>
+			<!--//priorityLinks-->
+		</div>
+		<!-- //menu search non mobile -->
+	</div>
+	<!--//header-main-->
+</header>
+<!--//header-->
+<!-- ***** NAV ***** -->
+<nav class="main-nav" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+			<button class="navbar-toggle" data-target="#navbar-collapse" data-toggle="collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<!--//nav-toggle-->
+		</div>
+		<!--//navbar-header-->
+		<div class="navbar-collapse collapse" id="navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Programs 
+							
+						
+						
+						<span class="hidden-sm">&amp; Courses</span>
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/ProgramsCourses/index.htm">Programs &amp; Courses Home</a>
+						</li>
+						<li>
+							<a href="https://mtroyal.ca/Applications/ProgramsOffered/">Programs Offered</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/CollaborativeDegrees/index.htm">Collaborative Degrees</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/designated-programs.htm">International Designated Programs</a>
+						</li>
+						<li>
+							<a href="/ContinuingEducation/index.htm">Continuing Education</a>
+						</li>
+						<li>
+							<a href="/mrucamps/index.htm">MRU Camps</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/TheConservatory/index.htm">The Conservatory</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/index.htm">Faculties/Schools/Centres</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/TeachingLearning/GeneralEducation/index.htm">General Education</a>
+						</li>
+						<li>
+						    <a href="/AboutMountRoyal/TeachingLearning/CSLearning/index.htm">Community Service Learning</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/CourseListings/index.htm">Course Listings</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// end Programs & Courses dropdown -->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">About 
+							
+						
+						
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/AboutMountRoyal/FastFacts/index.htm">Fast Facts</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/EquityDiversityInclusion/index.htm">Equity, Diversity and Inclusion</a>
+						</li>
+						<li>
+							<a href="/IndigenousMountRoyal/index.htm">Indigenization and Decolonization</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/institutional-analysis-planning/index.htm">Institutional Research &amp; Planning</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/TeachingLearning/index.htm">Teaching &amp; Learning</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/GivingMountRoyal/index.htm">Giving to Mount Royal</a>
+						</li>
+						<li>
+							<a href="https://alumni.mru.ca/home">Alumni</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/MediaRoom/index.htm">Media Room</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/MarketingCommunications/index.htm">Marketing &amp; Communications</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/OfficesGovernance/index.htm">Governance &amp; Leadership</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/CampusesTours/index.htm">Explore campus</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/TransportationParking/index.htm">Parking &amp; Transportation</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/Sustainability/index.htm">Sustainable MRU</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End About dropdown-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">
+						<span class="visible-sm-inline">Apply</span>
+						<span class="hidden-sm">Admission</span>
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/Admission/index.htm">Admission Home</a>
+						</li>
+						<li>
+							<a href="/Admission/Apply/index.htm">Apply</a>
+						</li>
+						<li>
+							<a href="/Admission/AdmissionRequirements/index.htm">Admission Requirements</a>
+						</li>
+						<li>
+							<a href="/Admission/transcripts-admission.htm">Transcripts for Admission</a>
+						</li>
+						<li>
+							<a href="https://www.mtroyal.ca/Admission/mount-royal-university-viewbook.htm">Viewbook</a>
+						</li>
+						<li>
+							<a href="/Admission/DatesDeadlines/index.htm">Dates &amp; Deadlines</a>
+						</li>
+						<li>
+							<a href="/Admission/FinancingYourEducation/index.htm">Financing Your Education</a>
+						</li>
+						<li>
+							<a href="/Admission/GuidanceCounsellors/index.htm">Guidance Counsellors</a>
+						</li>
+						<li>
+							<a href="https://mr4u.mymru.ca/events/campusVisitRequest.do">Campus Tours</a>
+						</li>
+						<li>
+							<a href="/Admission/OpenHouse/index.htm">Open House</a>
+						</li>
+						<li>
+							<a href="/Admission/events.htm">Admission Information Sessions</a>
+						</li>
+						<li>
+							<a href="/Admission/ContactUs/index.htm">Contact Us</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End Admission dropdown-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Academic 
+							
+						
+						
+						<span class="hidden-sm">Support</span>
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/AcademicSupport/index.htm">Academic Support Home</a>
+						</li>
+						<li>
+							<a href="https://catalog.mtroyal.ca/">Academic Calendar</a>
+						</li>
+						<li>
+							<a href="/AcademicSupport/ResourcesServices/Advising/index.htm">Advising</a>
+						</li>
+						<li>
+							<a href="/AcademicSupport/ResourcesServices/index.htm">Resources &amp; Services</a>
+						</li>
+						<li>
+							<a href="/AcademicSupport/Registrar/index.htm">Office of the Registrar</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End Academic Support dropdown-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Campus 
+						<span class="hidden-sm">Services</span>
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/CampusServices/index.htm">Campus Services Home</a>
+						</li>
+						<li>
+							<a href="/CampusServices/A-ZServices/index.htm">A-Z Services</a>
+						</li>
+						<li>
+							<a href="/CampusServices/GettingInvolved/index.htm">Getting Involved</a>
+						</li>
+						<li>
+							<a href="https://www.mrucougars.com/">Recreation</a>
+						</li>
+						<li>
+							<a href="https://www.mrucougars.com/">Cougar Athletics</a>
+						</li>
+						<li>
+							<a href="/CampusServices/CampusResources/index.htm">Campus Resources</a>
+						</li>
+						<li>
+							<a href="/FacilitiesManagement/index.htm">Facilities Management</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/IniskimCentre/index.htm">Iniskim Centre</a>
+						</li>
+						<li>
+							<a href="/CampusServices/LivingonCampus/index.htm">Residence Services</a>
+						</li>
+						<li>
+							<a href="/SafetyRiskDepartment/index.htm">Safety &amp; Risk</a>
+						</li>
+						<li>
+							<a href="/SafetyRiskDepartment/WellnessAtWork/index.htm">Employee Wellness</a>
+						</li>
+						<li>
+							<a href="/CampusServices/WellnessServices/index.htm">Wellness Services</a>
+						</li>
+						<li>
+							<a href="/CampusServices/DDSV/index.htm">Dating, Domestic &amp; Sexual Violence</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End Campus Services dropdown-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Library 
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="https://library.mtroyal.ca/">Library Home</a>
+						</li>
+						<li>
+							<a href="https://librarysearch.mtroyal.ca/discovery/search?tab=MRULibraryResources&amp;search_scope=MRULibrary&amp;vid=01MTROYAL_INST:02MTROYAL_INST">Find &amp; Borrow</a>
+						</li>
+						<li>
+							<a href="https://library.mtroyal.ca/help">Help With...</a>
+						</li>
+						<li>
+							<a href="https://library.mtroyal.ca/spaces">Spaces</a>
+						</li>
+						<li>
+							<a href="https://library.mtroyal.ca/about">About</a>
+						</li>
+						<li>
+							<a href="https://library.mtroyal.ca/ask-us">Ask Us</a>
+						</li>
+		                <li>
+							<a href="https://librarysearch.mtroyal.ca/discovery/login?vid=01MTROYAL_INST:02MTROYAL_INST&amp;lang=en">My Library Account</a>
+						</li>
+						<li>
+							<a href="https://library.mtroyal.ca/locations">Hours</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End FULL-WIDTH and SMALL Library dropdown-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Research 
+							
+						
+						
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/Research/index.htm">Research Home</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/CentreforCommunityDisasterResearch/index.htm">Centre for Community Disaster Research</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/CentreHealthInnovationAging/index.htm">Centre for Health and Innovation in Aging</a>
+						</li>
+						<li>
+							<a href="/nonprofit/InstituteforCommunityProsperity/index.htm">Institute for Community Prosperity</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/Business/Institutes/InstituteInnovationEntrepreneurship/index.htm">Institute for Innovation and Entrepreneurship</a>
+						</li>
+                        <li>
+							<a href="http://www.rockies.ca/mru.php" target="_blank">Miistakis Institute</a>
+						</li>
+						<li>
+                          <a href="https://www.qriticalhub.com/" target="_blank">QriTical Research Hub</a>
+                        </li>
+						<li>
+							<a href="https://www.tricochangemakersstudio.ca/" target="_blank">Trico Changemakers Studio</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End Research-->
+				<li class="nav-item dropdown">
+					<a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover="dropdown" data-toggle="dropdown" href="#">Careers <i class="fa fa-angle-down"></i></a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="/EmploymentCareers/CareerServices/index.htm">Students &amp; Alumni</a>
+						</li>
+						<li>
+							<a href="/EmploymentCareers/HumanResources/CareerOpportunities/index.htm">Work at MRU</a>
+						</li>
+						<li>
+						    <a href="/EmploymentCareers/HumanResources/index.htm">HR</a>
+						</li>
+					</ul>
+					<!--//dropdown-->
+				</li>
+				<!--// End SMALL Employment & Careers dropdown-->
+			</ul>
+		</div>
+		<!--//navabr-collapse-->
+	</div>
+	<!--//container-->
+</nav>
+
+</div>
+
+
+    			<!--//header-->
+
+                <div class="content">
+                    <div class="page-content container-fluid" id="skip-to-content">
+                        
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+                        
+                
+        <div class="row">
+        <div id="homepage-flex">
+            <div class="slider flexslider" id="promo-slider">
+                <ul class="slides">
+    
+                                
+                                
+    
+                                                
+                                    
+                <li class="" style="background-color: #222222;">
+                    <img alt="" loading="lazy" src="_homepage-assets/img/hh-aunties-02.jpg"/>
+                    <div class="black-overlay hidden-xs"></div>
+                    <div class="flex-caption">
+                        <span class="main">Celebrating kinship, resistance and love</span><br/>
+                        <span class="secondary">Campus art exhibition honours keepers of tradition, bearers of wisdom</span>
+                        <p>
+                            <a class="slider-button" href="AboutMountRoyal/MediaRoom/Stories/2025/03/celebrating-kinship-resistance-love.htm">Read the story</a>
+                        </p>
+                    </div>
+                </li>
+                
+                                
+                                
+    
+                                                
+                                    
+                <li class="" style="background-color: #222222;">
+                    <img alt="Del Coburn and Thomas Tri" loading="lazy" src="_homepage-assets/img/hh-coburn-tri.jpg"/>
+                    <div class="black-overlay hidden-xs"></div>
+                    <div class="flex-caption">
+                        <span class="main">Student, alum earn McCall MacBain scholarships</span><br/>
+                        <span class="secondary"></span>
+                        <p>
+                            <a class="slider-button" href="AboutMountRoyal/MediaRoom/Stories/2025/03/mru-student-alum-mccall-macbain-scholarships.htm">Read the story</a>
+                        </p>
+                    </div>
+                </li>
+                
+                
+                </ul>
+            </div>
+        </div>
+    </div>
+            
+
+        
+        
+                
+                
+        
+                
+            <div class="row twoImageStoryBlock">
+            <div class="col-xs-10 col-xs-offset-1">
+        		<div class="col-sm-6 col-sm-offset-0 col-xs-12 image-story">
+        			<a href="AboutMountRoyal/MediaRoom/Stories/2025/03/career-services-calgary-black-chambers-partnership-agreement.htm">
+                    	<div class="image-box-image-story">
+                    		<img class="img-responsive" loading="lazy" src="_homepage-assets/img/hptile-black-excellence-sign.jpg"/>
+                    		                        		<div class="story-label blue-bg">
+                            		<p>Story</p>
+                        		</div>
+                    		                		</div>
+                	
+                	                                                                                                                    	                	</a>
+        
+                	<div class="story-title">
+                    	<a href="AboutMountRoyal/MediaRoom/Stories/2025/03/career-services-calgary-black-chambers-partnership-agreement.htm"><h1>Mentorship, scholarship, fellowship and advocacy</h1></a>
+                	</div>
+                	<div class="story-intro">
+                    	<p>Career Services and Calgary Black Chambers sign three year partnership agreement</p>
+                	</div>
+                </div> <!--//col-sm-6-->
+        
+                <div class="col-sm-6 col-sm-offset-0 col-xs-12 image-story">
+        			<a href="ProgramsCourses/FacultiesSchoolsCentres/Business/Institutes/InstituteInnovationEntrepreneurship/Programs/JMH-LaunchPad-Pitch-Competition.htm">
+                		<div class="image-box-image-story">
+                    		<img class="img-responsive" loading="lazy" src="_homepage-assets/img/hptile-launchpad.jpg"/>
+                    		                        		<div class="story-label blue-bg">
+                            		<p>Event</p>
+                        		</div>
+                    		                		</div>
+                	</a>
+        
+                	<div class="story-title">
+                    	<a href="ProgramsCourses/FacultiesSchoolsCentres/Business/Institutes/InstituteInnovationEntrepreneurship/Programs/JMH-LaunchPad-Pitch-Competition.htm"><h1>JMH LaunchPad Pitch Competition</h1></a>
+                	</div>
+                	<div class="story-intro">
+                    	<p>Join top MRU student ventures as they compete for their share of $70,000 in cash prizes and in-kind services</p>
+                	</div>
+                </div> <!--//col-sm-6-->
+            </div>
+        </div>
+        
+
+        
+        
+              
+        
+        
+    
+            
+    
+    
+        
+    
+            
+        
+        
+            
+        
+        <div class="row row-eq-height">
+    		<div class="dark-blue-bg text-story">
+    		   <a href="AboutMountRoyal/MediaRoom/Stories/2025/03/interior-design-graduates-collaboration-benefits.htm">
+        		<div style="width: 80%; margin: auto;">
+            		<div class="story-label light-gray-bg">
+                		<p>Story</p>
+            		</div>
+            		<div class="story-title">
+                		<h1>From MRC to NYC</h1>
+            		</div>
+            		<div class="story-intro">
+                		<p>Interior design graduates keep finding good reasons to team up</p>
+            		</div>
+        		</div>
+        	  </a>
+    		</div> <!--//col-sm-4-->
+
+    		<div class="light-blue-bg text-story">
+    		   <a href="AboutMountRoyal/MediaRoom/Stories/2025/03/mount-royal-university-royal-roads-university-mou.htm">
+        		<div style="width: 80%; margin: auto;">
+            		<div class="story-label dark-gray-bg">
+                		<p>Story</p>
+            		</div>
+            		<div class="story-title">
+                		<h1>Mount Royal and Royal Roads sign MOU</h1>
+            		</div>
+            		<div class="story-intro">
+                		<p>This MOU aims to enhance academic and research opportunities, facilitate student and faculty exchanges, and foster innovative collaborations</p>
+            		</div>
+        		</div>
+        	  </a>
+    		</div> <!--//col-sm-4-->
+    	
+    		<div class="dark-gray-bg text-story">
+    		  <a href="AboutMountRoyal/MediaRoom/Stories/2025/03/planetary-alignment.htm">
+        		<div style="width: 80%; margin: auto;">
+            		<div class="story-label light-blue-bg">
+                		<p>Story</p>
+            		</div>
+            		<div class="story-title">
+                		<h1>Planetary alignment</h1>
+            		</div>
+            		<div class="story-intro">
+                		<p>A thousand people take to MRU’s soccer field to catch a glimpse of rare planetary alignment</p>
+            		</div>
+        		</div>
+        	  </a>
+    		</div> <!--//col-sm-4-->
+	</div> <!--//row-->
+    
+
+        
+        
+                
+    
+            
+        
+    <div class="row customizable-row cr-image-full">
+        <div class="customizable-row-image col-xs-12">
+            <div class="black-overlay"></div>
+    		      	<img alt="test" src="_homepage-assets/img/hg_taylorlegacy.png"/>
+    
+            <div class="customizable-row-text col-sm-6 col-sm-offset-3 col-xs-12">
+                <div class="customizable-row-line"></div>
+                <h1>Support the Taylor Family Foundation giving legacy</h1>
+                <p>Learn how to help students at MRU have access to a world-class education</p>
+                <div class="read-more-button">
+                    <a href="AboutMountRoyal/CampusesTours/CampusMasterPlan/taylor-legacy.htm">More</a>
+                </div><!--//read-more-button-->
+            </div>
+        </div><!--//customizable-row-text-->
+    </div>  <!--//customizable-image-row-->  
+    
+    
+
+        
+        
+                
+            
+   
+        <div class="cr-image left">
+    				<div class="row customizable-row cr-image-left">
+        		<div class="col-xs-10 col-xs-offset-1">
+            		<div class="customizable-row-image col-sm-6 col-xs-12">
+                		<img alt="img_test_full_width_01" class="img-responsive" loading="lazy" src="_homepage-assets/img/hptile_sofia.jpg"/>
+            		</div>
+            		<div class="customizable-row-text col-sm-6 col-xs-12">
+                		<div class="customizable-row-line"></div>
+                		<h1>Be your true self</h1>
+                		<p>Sofia Eaglehead Baptiste uses dance to connect, learn and heal.</p>
+                		<div class="read-more-button">
+                    		<a href="AboutMountRoyal/WhyMRU/sofiabaptiste.htm">MORE</a>
+                		</div><!--//read-more-button-->
+            		</div><!--//customizable-row-text-->
+        		</div><!--col-xs-10-->
+    		</div> <!--//row-->
+    </div><!--//#cr-image-left-->
+    
+
+        
+        
+                
+            
+   
+        <div class="cr-image left">
+    				<div class="row customizable-row cr-image-left">
+        		<div class="col-xs-10 col-xs-offset-1">
+            		<div class="customizable-row-image col-sm-6 col-xs-12">
+                		<img alt="img_test_full_width_01" class="img-responsive" loading="lazy" src="_homepage-assets/img/hptile_change-research.jpg"/>
+            		</div>
+            		<div class="customizable-row-text col-sm-6 col-xs-12">
+                		<div class="customizable-row-line"></div>
+                		<h1>Change research</h1>
+                		<p>At Mount Royal University, change means being bold, curious and creative. We foster a culture of inquiry that values innovation and the pursuit of knowledge, with our faculty answering important questions that advance knowledge in impactful ways.</p>
+                		<div class="read-more-button">
+                    		<a href="Research/change-research.htm">MORE</a>
+                		</div><!--//read-more-button-->
+            		</div><!--//customizable-row-text-->
+        		</div><!--col-xs-10-->
+    		</div> <!--//row-->
+    </div><!--//#cr-image-left-->
+    
+
+
+
+
+
+ <!--//content-->
+                    </div>
+                </div>
+            </div><!--//wrapper-->
+            
+            <!-- ******FOOTER****** -->
+    		<footer class="footer">
+    			
+    <div class="nav-container">
+        
+<!-- standard-footer -->
+<div class="footer-content">
+	<div class="container">
+		<div class="row">
+			<div class="footer-col col-md-3 col-sm-4 about">
+				<div class="footer-col-inner">
+					<h3>Faculties</h3>
+					<ul>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/Arts/index.htm">
+								<i class="fa fa-caret-right"></i>Arts
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/Business/index.htm">
+								<i class="fa fa-caret-right"></i>Business
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/Communications/index.htm">
+								<i class="fa fa-caret-right"></i>Communications
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ContinuingEducation/index.htm">
+								<i class="fa fa-caret-right"></i>Continuing Education
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/HealthCommunityEducation/index.htm">
+								<i class="fa fa-caret-right"></i>Health, Community &amp; Education
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/ScienceTechnology/index.htm">
+								<i class="fa fa-caret-right"></i>Science &amp; Technology
+								
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!--//footer-col-inner-->
+			</div>
+			<!--//footer-col-->
+			<div class="footer-col col-md-3 col-sm-4 about">
+				<div class="footer-col-inner">
+					<h3>Students</h3>
+					<ul>
+						<li>
+							<a href="/CampusServices/A-ZServices/index.htm">
+								<i class="fa fa-caret-right"></i>A - Z Student Services
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://www.mtroyal.ca/ProgramsCourses/A-ZPrograms/index.htm">
+								<i class="fa fa-caret-right"></i>A - Z Programs
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://catalog.mtroyal.ca/">
+								<i class="fa fa-caret-right"></i>Academic Calendar
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://www.mtroyal.ca/academics/StudentRegistrationRecords/CriticalDates/">
+								<i class="fa fa-caret-right"></i>Critical Dates
+								
+							</a>
+						</li>
+						<li>
+							<a href="/Admission/FinancingYourEducation/index.htm">
+								<i class="fa fa-caret-right"></i>Financing Your Education
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/InternationalEducation/EnglishasanAdditionalLanguage/index.htm">
+								<i class="fa fa-caret-right"></i>ESL Programs
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/InternationalEducation/index.htm">
+								<i class="fa fa-caret-right"></i>International Education
+								
+							</a>
+						</li>
+						<li>
+							<a href="/CampusServices/CampusResources/InformationTechnology/index.htm">
+								<i class="fa fa-caret-right"></i>IT Services
+								
+							</a>
+						</li>
+						<li>
+							<a href="/CampusServices/LivingonCampus/index.htm">
+								<i class="fa fa-caret-right"></i>Residence
+								
+							</a>
+						</li>
+						<li>
+							<a href="/AcademicSupport/Registrar/CreditStudentRecord/index.htm">
+								<i class="fa fa-caret-right"></i>Transcripts
+								
+							</a>
+						</li>
+						<li>
+							<a href="/CampusServices/CampusResources/InformationTechnology/Wireless/index.htm">
+								<i class="fa fa-caret-right"></i>Wireless
+								
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!--//footer-col-inner-->
+			</div>
+			<!--//footer-col-->
+			<div class="footer-col col-md-3 col-sm-4 about">
+				<div class="footer-col-inner">
+					<h3>Campus</h3>
+					<ul>
+						<li>
+							<a href="https://www.mrucougars.com/">
+								<i class="fa fa-caret-right"></i>Athletics
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://bookstore.mtroyal.ca/">
+								<i class="fa fa-caret-right"></i>Campus Store
+								
+							</a>
+						</li>
+						<li>
+							<a href="/ProgramsCourses/FacultiesSchoolsCentres/TheConservatory/index.htm">
+								<i class="fa fa-caret-right"></i>Conservatory
+								
+							</a>
+						</li>
+						<li>
+							<a href="/mrevents/index.htm">
+								<i class="fa fa-caret-right"></i>Event &amp; Theatre Services
+								
+							</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/CampusesTours/CampusLocations/index.htm">
+								<i class="fa fa-caret-right"></i>Maps
+								
+							</a>
+						</li>
+						<li>
+							<a href="/mrucamps/index.htm">
+								<i class="fa fa-caret-right"></i>MRU Camps
+								
+							</a>
+						</li>
+						<li>
+							<a href="/AboutMountRoyal/TransportationParking/index.htm">
+								<i class="fa fa-caret-right"></i>Parking
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://mrucougars.com/">
+								<i class="fa fa-caret-right"></i>Recreation
+								
+							</a>
+						</li>
+						<li>
+							<a href="/OfficeOfSafeDisclosure/index.htm">
+								<i class="fa fa-caret-right"></i>Safe Disclosure
+								
+							</a>
+						</li>
+						<li>
+							<a href="/SafetyRiskDepartment/CampusSafety/index.htm">
+								<i class="fa fa-caret-right"></i>Safety &amp; Risk
+								
+							</a>
+						</li>
+						<li>
+							<a href="https://mr4u.mymru.ca/events/campusVisitRequest.do">
+								<i class="fa fa-caret-right"></i>Tours
+								
+							</a>
+						</li>
+						<li>
+							<a href="/CampusServices/WellnessServices/index.htm">
+								<i class="fa fa-caret-right"></i>Wellness Services
+								
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!--//footer-col-inner-->
+			</div>
+			<!--//footer-col-->
+			<div class="footer-col col-md-3 col-sm-12 contact">
+				<div class="footer-col-inner">
+					<h3>Contact Us</h3>
+					<div class="row">
+						<p class="adr clearfix col-md-12 col-sm-4">
+							<span class="adr-group pull-left">
+								<span class="street-address">Mount Royal University</span>
+								<br/>
+								<span class="region">4825 Mount Royal Gate SW</span>
+								<br/>
+								<span class="region">Calgary, Alberta, Canada</span>
+								<br/>
+								<span class="postal-code">T3E 6K6</span>
+								<br/>
+							</span>
+						</p>
+																		<p class="email col-md-12 col-sm-4">
+							<i class="fa fa-envelope"> </i>
+							<a href="/ContactUs/index.htm">Contact Us</a>
+						</p>
+						<a href="https://foundation.mru.ca/donate-now">
+							<div id="donate-button">
+								<p>DONATE</p>
+							</div>
+						</a>
+					</div>
+				</div>
+				<!--//footer-col-inner-->
+			</div>
+			<!--//footer-col-->
+		</div>
+		<!--//footer row -->
+		<div class="row territorial-acknowledgement-row">
+			<div class="footer-col col-md-9 col-sm-8 col-xs-12">
+				<p data-nosnippet="true" id="territorial-acknowledgement-text">With gratitude and reciprocity, Mount Royal University acknowledges the relationships to the land and all beings, and the songs, stories and teachings of the Siksika Nation, the Piikani Nation, the Kainai Nation, the Îethka Stoney Nakoda Nation (consisting of the Chiniki, Bearspaw and Goodstoney Nations), the people of the Tsuut’ina Nation, and the Métis. <a href="/AboutMountRoyal/land-acknowledgement.htm" style="text-decoration:underline">Learn more.</a></p>
+			</div>
+			<!--//footer-col-->
+			<div class="footer-col col-md-3 col-sm-4 col-xs-12">
+				<div class="footer-col-inner">
+					<img alt="Ashoka U Changemaker campus logo" class="img-responsive" src="/_files/img/ashokaulogo.png"/>
+				</div>
+				<!--//footer-col-inner-->
+			</div>
+			<!--//footer-col-->
+		</div>
+		<!--//footer row territorial-acknowledgement -->
+	</div>
+</div>
+<!--//footer-content-->
+<div class="bottom-bar">
+	<div class="container">
+		<div class="row">
+			<small class="copyright col-md-6 col-sm-12 col-xs-12">
+						© Copyright 2025 Mount Royal University
+					</small>
+			<ul class="social pull-right col-md-6 col-sm-12 col-xs-12">
+				<li>
+					<a aria-label="Facebook" href="https://www.facebook.com/MountRoyalU" title="Facebook">
+						<i class="fa fa-facebook"></i>
+					</a>
+				</li>
+				<li>
+					<a aria-label="X" href="https://twitter.com/MountRoyalU" title="X">
+						𝕏
+					</a>
+				</li>
+				<li>
+					<a aria-label="MRU YouTube" href="https://www.youtube.com/user/MountRoyal4U" title="YouTube">
+						<i class="fa fa-youtube"></i>
+					</a>
+				</li>
+				<li>
+					<a aria-label="LinkedIn" href="https://www.linkedin.com/school/mount-royal-university" title="LinkedIn">
+						<i class="fa fa-linkedin"></i>
+					</a>
+				</li>
+				<li>
+					<a aria-label="Instagram" href="https://instagram.com/mrulife" title="Instagram">
+						<i class="fa fa-instagram"></i>
+					</a>
+				</li>
+			</ul>
+			<!--//social-->
+		</div>
+		<!--//row-->
+	</div>
+	<!--//container-->
+</div>
+<button id="back2top" title="Go to top of page">Back to top</button>
+<!--//bottom-bar-->
+    
+
+</div>
+
+
+    		</footer>
+    		<!--//footer-->
+    		<!-- Javascript -->
+    		<script class="bootstrap" src="_files/js/bootstrap.min.js" type="text/javascript"></script>
+<script class="mru-assets" src="_files/js/mru-extra.js" type="text/javascript"></script>
+    		
+	</body>
+</html>
