@@ -2,5 +2,8 @@
     "vcpkg.target.useManifest": false,
     "cmake.configureArgs": [
         "-DVCPKG_MANIFEST_MODE=OFF"
-    ]
+    ],
+    "files.associations": {
+        "fstream": "cpp"
+    }
 }
